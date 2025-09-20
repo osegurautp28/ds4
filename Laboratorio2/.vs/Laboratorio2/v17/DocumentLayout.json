@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\ds4\\Laboratorio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2AFFD-879F-7177-8D91-383551537644}|Laboratorio2.csproj|c:\\users\\dell\\source\\repos\\ds4\\laboratorio2\\laboratorio22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2AFFD-879F-7177-8D91-383551537644}|Laboratorio2.csproj|solutionrelative:laboratorio22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2AFFD-879F-7177-8D91-383551537644}|Laboratorio2.csproj|c:\\users\\dell\\source\\repos\\ds4\\laboratorio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2AFFD-879F-7177-8D91-383551537644}|Laboratorio2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2AFFD-879F-7177-8D91-383551537644}|Laboratorio2.csproj|c:\\users\\dell\\source\\repos\\ds4\\laboratorio2\\laboratorio2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63B2AFFD-879F-7177-8D91-383551537644}|Laboratorio2.csproj|solutionrelative:laboratorio2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\dell\\source\\repos\\ds4\\laboratorio23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Laboratorio2.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\ds4\\Laboratorio2\\Laboratorio2.csproj",
+              "RelativeDocumentMoniker": "Laboratorio2.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\ds4\\Laboratorio2\\Laboratorio2.csproj",
+              "RelativeToolTip": "Laboratorio2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-20T19:13:03.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\ds4\\Laboratorio2\\Laboratorio23\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio23\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\ds4\\Laboratorio2\\Laboratorio23\\Program.cs",
+              "RelativeToolTip": "Laboratorio23\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:19:50.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\ds4\\Laboratorio2\\Laboratorio22\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio22\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\ds4\\Laboratorio2\\Laboratorio22\\Program.cs",
+              "RelativeToolTip": "Laboratorio22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T19:29:48.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\ds4\\Laboratorio2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\ds4\\Laboratorio2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T18:58:25.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

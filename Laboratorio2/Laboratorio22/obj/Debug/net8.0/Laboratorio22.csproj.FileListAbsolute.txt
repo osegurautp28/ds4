@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\ds4\Laboratorio22\bin\Debug\net8.0\Laboratorio22.exe
+C:\Users\Dell\source\repos\ds4\Laboratorio22\bin\Debug\net8.0\Laboratorio22.deps.json
+C:\Users\Dell\source\repos\ds4\Laboratorio22\bin\Debug\net8.0\Laboratorio22.runtimeconfig.json
+C:\Users\Dell\source\repos\ds4\Laboratorio22\bin\Debug\net8.0\Laboratorio22.dll
+C:\Users\Dell\source\repos\ds4\Laboratorio22\bin\Debug\net8.0\Laboratorio22.pdb
+C:\Users\Dell\source\repos\ds4\Laboratorio22\obj\Debug\net8.0\Laboratorio22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ds4\Laboratorio22\obj\Debug\net8.0\Laboratorio22.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ds4\Laboratorio22\obj\Debug\net8.0\Laboratorio22.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ds4\Laboratorio22\obj\Debug\net8.0\Laboratorio22.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ds4\Laboratorio22\obj\Debug\net8.0\Laboratorio22.sourcelink.json
+C:\Users\Dell\source\repos\ds4\Laboratorio22\obj\Debug\net8.0\Laboratorio22.dll
+C:\Users\Dell\source\repos\ds4\Laboratorio22\obj\Debug\net8.0\refint\Laboratorio22.dll
+C:\Users\Dell\source\repos\ds4\Laboratorio22\obj\Debug\net8.0\Laboratorio22.pdb
+C:\Users\Dell\source\repos\ds4\Laboratorio22\obj\Debug\net8.0\Laboratorio22.genruntimeconfig.cache
+C:\Users\Dell\source\repos\ds4\Laboratorio22\obj\Debug\net8.0\ref\Laboratorio22.dll
