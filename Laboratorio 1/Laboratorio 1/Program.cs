@@ -1,7 +1,10 @@
-﻿internal class Program
+﻿internal class Lab2
 {
-    private static void Main(string[] args)
-    {
-        Console.WriteLine("Hola mundo!");
-    }
+    //Definicion de metodo que suma dos numeros e imprime el resultado
+        public void Sumar(int valor1, int valor2)
+            {
+        int variableLocal = valor1 + valor2;//declarando variable local variableLocal
+            
+            }
+    
 }
